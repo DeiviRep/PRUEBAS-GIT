@@ -1,4 +1,5 @@
 *.psd
 .env
+git manual.txt
 node_modulos
 nombredelarchivo.txt
