@@ -1,2 +1,2 @@
-# repositorio2
+# PRUEBAS GIT
 ESTE ES MI PRIMER README
